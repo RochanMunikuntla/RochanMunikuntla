@@ -1,5 +1,5 @@
 -  Hi, I’m @RochanMunikuntla
--  I’m interested in AI/ML and Quant Finance
+-  I’m interested in AI/ML and Full Stack Development
 -  I’m currently learning Python and C
 -  Studying in KLH University - CSE
 -  How to reach me: rochan.munikuntla@gmail.com
