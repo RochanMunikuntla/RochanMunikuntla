@@ -1,4 +1,4 @@
-Hey, I'm Rochan
+## Hey, I'm Rochan
 
 I enjoy building systems from scratch — STL, databases, compilers, operating systems... if it's low-level, I'm probably interested.
 
@@ -6,6 +6,13 @@ Currently exploring AI systems, language models, and inference engines. Building
 
 Always building something that probably didn't need to be built from scratch... but I'm building it anyway.
 I write C++ more often than I probably should...
+
+**About me:**
+- I'm studying CSE in KL University, Hyderabad
+- Founder of Noeysis, an LMS built for engineering colleges
+- Passionate about Systems Programming, AI Systems and Backend Engineering
+- Hobbies: Playing chess, competitive programming and listening to music
+  
 
 Reach me: munikuntla@rochan.in
 
