@@ -1,10 +1,13 @@
--  Hi, I’m @RochanMunikuntla
--  I’m interested in AI/ML and Full Stack Development
--  I’m currently learning Python and C++
--  Studying in KLH University - CSE
--  How to reach me: rochan.munikuntla@gmail.com
+Hey, I'm Rochan
 
+I enjoy building systems from scratch — STL, databases, compilers, operating systems... if it's low-level, I'm probably interested.
 
+Currently exploring AI systems, language models, and inference engines. Building Noeysis, an LMS for engineering colleges, while documenting the journey. Check it out: www.noeysis.com
+
+Always building something that probably didn't need to be built from scratch... but I'm building it anyway.
+I write C++ more often than I probably should...
+
+Reach me: munikuntla@rochan.in
 
 <!---
 RochanMunikuntla/RochanMunikuntla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
